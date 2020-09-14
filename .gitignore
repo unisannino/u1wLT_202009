@@ -72,3 +72,6 @@ Packages/Microsoft.CodeQuality.Analyzers.2.9.8/
 Packages/Microsoft.NetCore.Analyzers.2.9.8/
 Packages/Microsoft.NetFramework.Analyzers.2.9.8/
 packages.config
+
+# ignore plugins
+[Aa]ssets/Plugins/
